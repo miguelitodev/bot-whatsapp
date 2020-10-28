@@ -1,14 +1,19 @@
-# bot whatsapp
+<div align="center">
+    <img src=".github/app.gif"/> 
+</div>
+
+# BOT WHATSAPP
+
 This is a bot for spam on whatsapp 🤣🤣🤣
 
 ## How to use
 
 ```
-    const recipient = "Tia" 
+    const recipient = "Tia"
     // -> the person that you will send message
-    const messageSent = "Bom dia" 
+    const messageSent = "Bom dia"
     // -> the message
-    const objectInput = "div._2UL8j" 
+    const objectInput = "div._2UL8j"
     // -> not change this, just if don't work, possible solution below
 ```
 
@@ -21,3 +26,10 @@ TypeError: Cannot read property 'focus' of null
 ```
 
 If apear this error to you, open developer tools of google -> elements -> go to input of whatsapp web, get the class and change on const
+
+<img src=".github/print.jpg" width="80%">
+
+<br>
+<br>
+<br>
+Made with :heart: by <a href="https://github.com/miguelrisquelme" target="_blank">Miguel Riquelme</a>
