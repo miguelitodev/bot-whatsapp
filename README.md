@@ -2,9 +2,15 @@
     <img src=".github/app.gif"/> 
 </div>
 
+<br>
+<br>
+
 # BOT WHATSAPP
 
 This is a bot for spam on whatsapp 🤣🤣🤣
+
+<br>
+<br>
 
 ## How to use
 
@@ -16,6 +22,9 @@ This is a bot for spam on whatsapp 🤣🤣🤣
     const objectInput = "div._2UL8j"
     // -> not change this, just if don't work, possible solution below
 ```
+
+<br>
+<br>
 
 ## Troubleshooting
 
@@ -31,5 +40,14 @@ If apear this error to you, open developer tools of google -> elements -> go to 
 
 <br>
 <br>
+
+## Ref
+
+- Video <a href="https://youtu.be/Cml20VkyB_A">Link</a>
+- author: <a href="https://github.com/machadop1407">@machadop1407</a>
+
 <br>
+<br>
+<br>
+
 Made with :heart: by <a href="https://github.com/miguelrisquelme" target="_blank">Miguel Riquelme</a>

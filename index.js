@@ -3,8 +3,7 @@ const puppeteer = require("puppeteer");
 // Login Function Logic
 (async function main() {
   try {
-    const recipient = "Tia"
-    const messageSent = "Bom dia"
+    const recipient = "Gabriel Lopes"
     const objectInput = "div._2UL8j"
 
     // Configures puppeteer
@@ -36,7 +35,7 @@ const puppeteer = require("puppeteer");
     //Loops through cycle of sending message
     for (var i = 0; i < amountOfMessages; i++) {
       await page.evaluate(() => {
-        const message = messageSent;
+        const message = "😍😍😍";
         document.execCommand("insertText", false, message);
       });
       await page.click("span[data-testid='send']");
