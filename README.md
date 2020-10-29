@@ -17,10 +17,13 @@ This is a bot for spam on whatsapp 🤣🤣🤣
 ```
     const recipient = "Tia"
     // -> the person that you will send message
-    const messageSent = "Bom dia"
-    // -> the message
+    
     const objectInput = "div._2UL8j"
     // -> not change this, just if don't work, possible solution below
+    
+    const message = "😍😍😍";
+    // -> the message
+
 ```
 
 <br>
